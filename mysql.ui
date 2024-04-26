@@ -122,19 +122,6 @@
      <string>删除</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButtonSerachAll">
-    <property name="geometry">
-     <rect>
-      <x>270</x>
-      <y>350</y>
-      <width>93</width>
-      <height>28</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>查询全部</string>
-    </property>
-   </widget>
    <widget class="QPushButton" name="pushButtonUpdate">
     <property name="geometry">
      <rect>
@@ -148,7 +135,7 @@
      <string>更新</string>
     </property>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>410</x>

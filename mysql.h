@@ -34,8 +34,6 @@ private slots:
 
     void on_pushButtonDelete_clicked();
 
-    void on_pushButtonSerachAll_clicked();
-
     void on_pushButtonUpdate_clicked();
 
 private:
